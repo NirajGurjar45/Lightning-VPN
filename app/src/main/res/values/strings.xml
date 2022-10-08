@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Lightning VPN</string>
+    <string name="app_browser_name">Lightning Browser</string>
+
+
+    //Ad type
+    //type carefully
+    // Google ads for = 1
+    //Facebook ads for = 2
+    // recommend to use admob
+    <integer name="ad_type">1</integer>
+
+
+    <string name="admob_app_id">ca-app-pub-5077227467806517~3235931029</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-5077227467806517/9773419211</string>
+    <string name="admob_banner_id">ca-app-pub-5077227467806517/5643243142</string>
+
+    <string name="fan_interstitial_id">549167759165615_549190905829967</string>
+    <string name="fan_banner_id">549167759165615_549190905829967</string>
+
+
+    <!--Change Privacy Policy URL-->
+    <string name="privacy_policy_link">google.com</string>
+    <!--END Change Privacy Policy URL-->
+
+    <string name="vpn_process_name" translatable="false">:vpn</string>
+    <string name="subscription_notices">You can cancel subscription or free trial any time by canceling your subscription thought google account setting, or it will automatically renew. /n This Must be done 24 hours before the end of the current period</string>
+    <string name="do_you_love_dora_vpn">Do you love Dora VPN?</string>
+    <string name="no_not_really">No, not really</string>
+    <string name="get_premium">Get Premium</string>
+    <string name="no_ads">No Ads</string>
+    <string name="increase_connection_spreed">Increase connection spreed</string>
+    <string name="premium_vertical_location">Premium vertical server</string>
+    <string name="_1_month">1 Month</string>
+
+
+    <string name="total_price_12_99">Total Price $12.99</string>
+    <string name="_12_99">$12.99</string>
+    <string name="monthly">Monthly</string>
+    <string name="_6_months">6 Months</string>
+    <string name="total_price_53_99">Total Price $53.99</string>
+    <string name="_8_99">$8.99</string>
+    <string name="_5_83">$5.83</string>
+    <string name="_12_months">12 Months</string>
+    <string name="total_price_66_99">Total Price $66.99</string>
+    <string name="_12_99_month_7_day_free_trial">$12.99/month | 7 - day free trial</string>
+
+
+    <string name="select_country">Select Country</string>
+    <string name="connected">Connected</string>
+    <string name="yes_rate_it">Yes, Rate it!</string>
+    <string name="fast_and_secure_vpn">Fast and secure vpn</string>
+    <string name="staring_vpn">Staring VPN</string>
+    <string name="united_state">United State</string>
+    <string name="remove_ads">Remove ads</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="default_region">DEFAULT REGION</string>
+    <string name="welcome_lo">Get unrestricted private online\n access from school and work\n using Dora VPN pro</string>
+    <string name="subcriptions_notics">Premium subscriptions automatically renew and you will be charged through your google account. Unused portion of free trial is forfeited after purchase</string>
+    <string name="do_you_love_lightning_vpn">ratinng</string>
+
+</resources>
